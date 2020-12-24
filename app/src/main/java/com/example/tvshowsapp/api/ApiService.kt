@@ -1,7 +1,7 @@
-package com.example.tvshowsapp.Api
+package com.example.tvshowsapp.api
 
-import com.example.tvshowsapp.Responses.TVShowDetailsResponse
-import com.example.tvshowsapp.Responses.TvShowsResponse
+import com.example.tvshowsapp.responses.TVShowDetailsResponse
+import com.example.tvshowsapp.responses.TvShowsResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

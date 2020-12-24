@@ -42,7 +42,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:context=".View.TvShowDetailsActivity">
+            tools:context=".view.TvShowDetailsActivity">
 
             <androidx.viewpager2.widget.ViewPager2
                 android:id="@+id/viewPagerActivityShowDetails"

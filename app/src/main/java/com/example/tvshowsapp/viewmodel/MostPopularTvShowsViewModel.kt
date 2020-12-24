@@ -1,9 +1,9 @@
-package com.example.tvshowsapp.ViewModel
+package com.example.tvshowsapp.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
-import com.example.tvshowsapp.Repositories.MostPopularTvShowsRepository
-import com.example.tvshowsapp.Responses.TvShowsResponse
+import com.example.tvshowsapp.repositories.MostPopularTvShowsRepository
+import com.example.tvshowsapp.responses.TvShowsResponse
 
 class MostPopularTvShowsViewModel : ViewModel() {
     private var mostPopularTvShowsRepository: MostPopularTvShowsRepository

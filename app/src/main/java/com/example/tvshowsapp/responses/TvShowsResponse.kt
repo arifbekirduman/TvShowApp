@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.Responses
+package com.example.tvshowsapp.responses
 
 import com.example.tvshowsapp.model.TVShow
 import com.google.gson.annotations.SerializedName

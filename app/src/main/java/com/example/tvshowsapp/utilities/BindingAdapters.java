@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.Utilities;
+package com.example.tvshowsapp.utilities;
 
 import android.widget.ImageView;
 

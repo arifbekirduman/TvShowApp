@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.View
+package com.example.tvshowsapp.view
 
 import android.os.Bundle
 import android.text.TextUtils
@@ -11,9 +11,9 @@ import androidx.core.content.ContextCompat
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
 import androidx.viewpager2.widget.ViewPager2
-import com.example.tvshowsapp.Adapter.ImageSliderAdapter
+import com.example.tvshowsapp.adapter.ImageSliderAdapter
 import com.example.tvshowsapp.R
-import com.example.tvshowsapp.ViewModel.TVShowDetailsViewModell
+import com.example.tvshowsapp.viewmodel.TVShowDetailsViewModell
 import com.example.tvshowsapp.databinding.ActivityTvShowDetailsBinding
 import com.example.tvshowsapp.model.TVShow
 

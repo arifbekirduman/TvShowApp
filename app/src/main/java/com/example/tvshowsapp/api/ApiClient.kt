@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.Api
+package com.example.tvshowsapp.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

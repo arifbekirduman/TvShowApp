@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.View
+package com.example.tvshowsapp.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -9,10 +9,10 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tvshowsapp.Adapter.TvShowAdapter
+import com.example.tvshowsapp.adapter.TvShowAdapter
 import com.example.tvshowsapp.model.TVShow
 import com.example.tvshowsapp.R
-import com.example.tvshowsapp.ViewModel.MostPopularTvShowsViewModel
+import com.example.tvshowsapp.viewmodel.MostPopularTvShowsViewModel
 import com.example.tvshowsapp.databinding.ActivityTvShowBinding
 import com.example.tvshowsapp.listener.TvShowsListener
 

@@ -1,10 +1,10 @@
-package com.example.tvshowsapp.Adapter
+package com.example.tvshowsapp.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tvshowsapp.Adapter.ImageSliderAdapter.ImageSliderViewHolder
+import com.example.tvshowsapp.adapter.ImageSliderAdapter.ImageSliderViewHolder
 import com.example.tvshowsapp.R
 import com.example.tvshowsapp.databinding.ItemContainerSilderImageBinding
 

@@ -1,4 +1,4 @@
-package com.example.tvshowsapp.Api
+package com.example.tvshowsapp.api
 
 class ApiUtils {
     companion object{

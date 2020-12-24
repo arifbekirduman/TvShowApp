@@ -1,10 +1,10 @@
-package com.example.tvshowsapp.Adapter
+package com.example.tvshowsapp.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tvshowsapp.Adapter.TvShowAdapter.TvShowViewHolder
+import com.example.tvshowsapp.adapter.TvShowAdapter.TvShowViewHolder
 import com.example.tvshowsapp.R
 import com.example.tvshowsapp.databinding.ItemContainerTvShowBinding
 import com.example.tvshowsapp.listener.TvShowsListener

@@ -1,9 +1,9 @@
-package com.example.tvshowsapp.ViewModel
+package com.example.tvshowsapp.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
-import com.example.tvshowsapp.Repositories.TVShowDetailsRepository
-import com.example.tvshowsapp.Responses.TVShowDetailsResponse
+import com.example.tvshowsapp.repositories.TVShowDetailsRepository
+import com.example.tvshowsapp.responses.TVShowDetailsResponse
 
 class TVShowDetailsViewModell : ViewModel() {
     private val tvShowDetailsRepository: TVShowDetailsRepository
