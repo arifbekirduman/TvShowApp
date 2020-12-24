@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#627e94</color>
+    <color name="colorPrimaryDark">#757575</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorBackground">#ECECEC</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="myGrey">#757575</color>
+    <color name="myBlue">#627e94</color>
+    <color name="lightblue">#A5D5FD</color>
+    <color name="shadow">#dbdbdb</color>
+    <color name="blue">#3997f0</color>
+    <color name="darkBlue">#0E2261</color>
+    <color name="darkgrey">#979696</color>
+    <color name="lightgrey">#BCE4E2E2</color>
+    <color name="white">#fafafa</color>
+    <color name="orange">#FFC107</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_gray">#dbdbdb</color>
+    <color name="gray">#7e7e7e</color>
+    <color name="semi_gray">#979797</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="black_effective">#dbdbdb</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+    <color name="colorSemiDark">#40000000</color>
+</resources>
